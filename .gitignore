@@ -1,0 +1,7 @@
+*.egg*
+*.pyc
+*.sw?
+.tox
+__pycache__
+build
+dist
